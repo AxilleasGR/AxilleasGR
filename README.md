@@ -1,15 +1,71 @@
-- 👋 Hi, I’m @AxilleasGR
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-##
-  * **Languages:** <br /> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  * **Databases:** <br /> ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-  * **Frameworks , Libraries:** <br /> ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)  
-  * **IDE's / Editors:**  <br /> ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-  * **Machine Learning:** <br /> ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  * **Other:** <br /> ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+# 👋 Hi, I'm Axilleas (AxilleasGR)
 
-## :star: Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxilleasGR&show_icons=true&theme=dark&hide=prs,issues)  <br />
+## About Me
+
+I'm a **Backend Software Engineer** with a strong interest in cloud computing, distributed systems, and data engineering.
+
+- 🎓 **Education**:
+  - **BSc in Computer Science** - University of Piraeus
+  - **MSc in Cloud/Edge Systems and Applications** - Harokopio University (Department of Informatics and Telematics)
+- 💻 **Currently Working On**: Backend systems, cloud infrastructure, and scalable applications.
+
+---
+
+## 🔧 Technologies & Skills
+
+- **Programming Languages**: Python, Java, JavaScript, SQL
+- **Backend Frameworks**: Flask, FastAPI, Spring Boot
+- **Databases**: MySQL, MongoDB, Neo4J
+- **Cloud & DevOps**: Kubernetes (MicroK8s), Docker, Terraform, Prometheus, Grafana, RabbitMQ, ThingsBoard, Keycloak
+- **Big Data & ETL**: Apache Kafka, Spark, ETL pipelines
+
+---
+
+## 📂 Notable Projects
+
+### 1️⃣ [IoT Weather Data Visualization](https://github.com/Niroth36/CloudPlatformESP)
+
+A cloud-native system collecting weather data from an **ESP8266** device, storing it in **Minio**, and visualizing it with **ThingsBoard**.
+
+- **Stack**: Kubernetes, MicroK8s, Minio, RabbitMQ, Node-RED, ThingsBoard, Grafana, Keycloak
+
+### 2️⃣ [ETL Data Pipeline](https://github.com/AxilleasGR/ETL-Project)
+
+An **Extract, Transform, Load (ETL)** pipeline for handling large-scale data processing.
+
+- **Stack**: Apache Kafka, MySQL, MongoDB, Neo4J, Flask, Docker
+
+### 3️⃣ [Android BookStore Application](https://github.com/AxilleasGR/Android-BookStore)
+
+An Android application featuring login and registration functionalities, integrated with Firebase for backend services.
+
+- **Stack**: Java, Android, Firebase
+
+### 4️⃣ [Music Player App](https://github.com/AxilleasGR/Music-Player)
+
+A simple music player for Android devices, designed and developed with Android Studio.
+
+- **Stack**: Java, Android
+
+### 5️⃣ [Bioinformatics Project](https://github.com/AxilleasGR/Bioinformatics-Project)
+
+Final project for the Bioinformatics course, focusing on computational analysis in biology.
+
+- **Stack**: Python, Data Analysis
+
+### 6️⃣ [E-Class Management System](https://github.com/AxilleasGR/E-Class-Management)
+
+Final project for the Software Engineering course, developed to manage class-related activities.
+
+- **Stack**: Java, MySQL
+
+---
+
+## 📫 Connect with Me
+
+- **GitHub**: [AxilleasGR](https://github.com/AxilleasGR)
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/achilleas-petridis-173885204/)
+- **Email**: [axilleas.petr@gmail.com](mailto:axilleas.petr@gmail.com)
+
+🚀 *Always learning and building cool stuff!*
+
