@@ -23,7 +23,7 @@ I'm a **Backend Software Engineer** with a strong interest in cloud computing, d
 
 ## 📂 Notable Projects
 
-### 1️⃣ [IoT Weather Data Visualization](https://github.com/Niroth36/CloudPlatformESP)
+### 1️⃣ [IoT Weather Data Visualization](https://github.com/AxilleasGR/CloudPlatformESP)
 
 A cloud-native system collecting weather data from an **ESP8266** device, storing it in **Minio**, and visualizing it with **ThingsBoard**.
 
