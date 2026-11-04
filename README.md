@@ -64,7 +64,7 @@ Final project for the Software Engineering course, developed to manage class-rel
 ## 📫 Connect with Me
 
 - **GitHub**: [AxilleasGR](https://github.com/AxilleasGR)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/achilleas-petridis-173885204/)
+- **LinkedIn**: [Achilleas Petridis](https://www.linkedin.com/in/achilleas-petridis-173885204/)
 - **Email**: [axilleas.petr@gmail.com](mailto:axilleas.petr@gmail.com)
 
 🚀 *Always learning and building cool stuff!*
